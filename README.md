@@ -1,4 +1,4 @@
 # School/Collage
 PRMCEM is my lst collage
 <br>
-vyws is scond
+vyws is my second collage
